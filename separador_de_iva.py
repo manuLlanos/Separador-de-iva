@@ -1,7 +1,5 @@
 import tkinter as tk
 
-#falta agregar botones para copiar
-
 def get_neto(iva, tasa):
     return iva/tasa + iva
 
